@@ -1,0 +1,26 @@
+Needs to hire 2 Freelancers
+I'm looking for someone who is talented in CSS / SCSS to build layouts from PSD / Figma.
+Has at least middle English and very high attention to details and writing quality code.
+
+I have a lot of different / interesting projects to work on and already have a few members in my team from Ukraine.
+
+After some testing period (1-2 month) if you are the one I'm looking for I can give you as much work you can handle (even 8 hours a day, but I'm ok with 4 hours a day also if you don't have more time)
+
+If you are interested please submit a small test on Github.
+The layout that needs to be built is attached, it should be mobile fist / responsive.
+Please create with SCSS and add an npm script for me that will build into CSS. (If you drop in some HTTP server so I can check easily it is a plus but not a must at all)
+
+I'm interested without giving any further guidance on:
+- the layout of the code you do
+- solutions you use
+- the structure and the naming of the files and folders
+- the way hove you build the responsive part
+- and some other things I'm not listing here :))
+
+Please also tell me how much time you took for making this test.
+
+As you can see it is a super simple test I cannot pay for this one, this is your entry task.
+
+However, I'll analyze all submissions and I'll tell you what I liked and not liked about the solution.
+
+Should you like to have a video call with me or have more questions, no problem, just drop me a message.
